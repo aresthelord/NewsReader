@@ -24,7 +24,7 @@ import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
 
-import com.dod.msqlite.MSQLiteOpenHelper;
+import com.michaldabski.msqlite.MSQLiteOpenHelper;
 import com.dod.newsreader.R;
 import com.dod.newsreader.model.Author;
 import com.dod.newsreader.model.Newspaper;

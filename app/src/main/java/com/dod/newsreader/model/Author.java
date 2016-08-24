@@ -1,6 +1,6 @@
 package com.dod.newsreader.model;
 
-import com.dod.msqlite.Annotations;
+import com.michaldabski.msqlite.Annotations;
 
 import java.io.Serializable;
 
