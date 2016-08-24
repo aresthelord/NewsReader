@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Köşe Yazarı Oku</string>
+
+    <string name="navigation_drawer_open">Göster</string>
+    <string name="navigation_drawer_close">Gizle</string>
+
+    <string name="action_settings">Ayarlar</string>
+    <string name="social">Paylaşım</string>
+    <string name="app_email">newsreader@dodtechnologies.com</string>
+    <string name="no_newspapers">Gazete Listesi Oluşturulamadı.</string>
+    <string name="no_authors">Yazar Listesi Oluşturulamadı.</string>
+    <string name="loading_">İsteğiniz işleniyor.</string>
+    <string name="dummy_newspaper">ABC Gazetesi.</string>
+    <string name="extra_note">Detay: %s</string>
+</resources>

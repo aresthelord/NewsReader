@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_newspapers"
+            android:icon="@drawable/newspaper"
+            android:title="Gazeteler" />
+        <item
+            android:id="@+id/nav_authors"
+            android:icon="@drawable/user_avatar"
+            android:title="Yazarlar" />
+        <item
+            android:id="@+id/nav_favourites"
+            android:icon="@drawable/big_star"
+            android:title="Favoriler" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/setting_tool"
+            android:title="Araçlar" />
+    </group>
+
+    <item android:title="@string/social">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Paylaş" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/paper_plane"
+                android:title="Gönder" />
+        </menu>
+    </item>
+
+</menu>

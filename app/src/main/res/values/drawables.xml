@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_newspaper" type="drawable">@drawable/newspaper</item>
+    <item name="ic_menu_author" type="drawable">@drawable/user_avatar</item>
+    <item name="ic_menu_favourites" type="drawable">@drawable/big_star</item>
+    <item name="ic_menu_manage" type="drawable">@drawable/setting_tool</item>
+    <item name="ic_menu_share" type="drawable">@drawable/ic_menu_share</item>
+    <item name="ic_menu_send" type="drawable">@drawable/envelope</item>
+</resources>
